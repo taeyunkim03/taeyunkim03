@@ -3,7 +3,7 @@
   <img src="assets/greeting-light.svg" alt="Hi, thanks for stopping by." width="451">
 </picture>
 
-I'm a senior at the University of Washington, majoring in Statistics (Data Science) with minors in Applied Mathematics and Informatics. I work as a Bioinformatics Research Assistant at UW Medicine, where I build analysis pipelines for large datasets on GPU and HPC clusters.
+I'm a senior at the University of Washington, majoring in Statistics (Data Science) with minors in Applied Mathematics and Informatics. I work as a Bioinformatics Research Assistant at UW Medicine, where I build single-cell RNA analysis pipelines.
 
 ### Languages
 
